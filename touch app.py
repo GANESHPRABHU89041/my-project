@@ -6,3 +6,5 @@ greet()
 VERSION = 1
 def login(username):
     return "Welcome " + username
+def logout():
+    return "User logged out"
