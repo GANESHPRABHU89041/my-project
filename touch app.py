@@ -4,3 +4,5 @@ def greet():
 greet()
 # This is my first Git project
 VERSION = 1
+def login(username):
+    return "Welcome " + username
