@@ -3,3 +3,4 @@ def greet():
 
 greet()
 # This is my first Git project
+VERSION = 1
